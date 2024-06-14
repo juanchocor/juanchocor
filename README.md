@@ -1,5 +1,5 @@
 
-# Hola ✌️ I'm Juancho
+# Hi ✌️ I'm Juancho
 
 
 
