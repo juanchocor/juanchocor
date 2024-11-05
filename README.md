@@ -4,8 +4,6 @@
 
 
 
-![IMAGEN]()
-
 
 ## 🚀 About Me
 
