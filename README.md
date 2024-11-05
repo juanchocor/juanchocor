@@ -4,7 +4,7 @@
 
 
 
-![IMAGEN](https://github.com/juanchocor/imagines/blob/main/Data%20Sciencie%20(1).png?raw=true)
+![IMAGEN]()
 
 
 ## 🚀 About Me
